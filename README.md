@@ -8,10 +8,10 @@ https://github.com/Muzan67/Alejandro-Cortez-React-Portfolio
 
 My React Portfolio contains:
 
-A section about me
-My Resume
-Links to my deployed works
-Contact Me - provides multiple methods of communication where people can get in contact with me.
+- A section about me
+- My resume
+- Links to my deployed works
+- Contact Me - provides multiple methods of communication were people can get in contact with me.
 
 ## Table of Contents
 
@@ -23,7 +23,7 @@ Contact Me - provides multiple methods of communication where people can get in 
 - Technologies Used
 - Installation
 - Usage
-- Screenshots
+- Screenshot
 
 # User Story
 
@@ -84,5 +84,5 @@ To install this application, clone the code into your terminal for the respectiv
 Use the navigation bar to navigate through different sections of my portfolio.
 Click on the various projects under "My Work" to navigate to their page.
 
-## Screenshots of Alejandro Cortez React Portfolio
+## Screenshot of Alejandro Cortez React Portfolio
 
