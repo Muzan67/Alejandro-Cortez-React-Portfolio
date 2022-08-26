@@ -81,8 +81,8 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 To install this application, clone the code into your terminal for the respective repository.
 
 # Usage
-Use the navigation bar to navigate through different sections of my portfolio.
-Click on the various projects under "My Work" to navigate to their page.
+- Use the navigation bar to navigate through different sections of my portfolio.
+- Click on the various projects under "My Work" to navigate to their page.
 
 ## Screenshot of Alejandro Cortez React Portfolio
 
