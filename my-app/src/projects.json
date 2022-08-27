@@ -1,0 +1,30 @@
+[
+    {
+    "id": 1,
+    "name": "Beauty-Ecommerce",
+    "image": "https://user-images.githubusercontent.com/102841726/182036951-4c951064-2f87-4496-9584-48fcd6f73ee9.png",
+    "github": "https://github.com/Muzan67/Beauty-Ecommerce",
+    "deployedapp": "https://beauty-ecommerce.herokuapp.com/",
+    "description": "Beauty E Commerce is a new marketplace for high end Korean beauty and skincare products, which provide the consumer to purchase these highly sought after products and receive them within a timely matter, retain new consumers as well as satisfy returning guests.",
+    "skills": "Model View Control (MVC) | Handlebars.js | Node.js | Express.js | Express Session | Dotenv | Bcrypt | Object Oriented Programming (OOP) | MySQL/Sequelize | Create Read Update Delete (CRUD)"
+    },
+    {
+        "id": 2,
+        "name": "Media-Generator",
+        "image": "https://raw.githubusercontent.com/Muzan67/media-generator/main/assets/images/mediaHome.png",
+        "github": "https://github.com/Muzan67/media-generator",
+        "deployedapp": "https://sweetfreak.github.io/media-generator/index.html",
+        "description": "Media Generator is a robust data search based on your favorite actor, movie, or tv show. After you run a search, you'll see a vast amount of data relevant without having any adds or popups.",
+        "skills": "Javascript | CSS | HTML5 | CSS-Framework | Modals | Client Side Storage | Server Side API"
+    },
+    {
+        "id": 3,
+        "name": "Personal Finances",
+        "image": "https://user-images.githubusercontent.com/102841726/185766769-d8cf0277-4fe7-4361-92f2-25e3b0ec242e.png",
+        "github": "https://github.com/Muzan67/Social-Network-API-NoSQL",
+        "deployedapp": "https://cryptic-earth-46353.herokuapp.com/",
+        "description": "The application will allows users to track their finances and give them the ability to handle their transactions while offline. If any transactions were made offline, the sum total will update when the user has established online access.",
+        "skills": "Javascript | CSS | HTML5 | CSS-Framework | Modals | Client Side Storage | Server Side API"
+    }
+
+]

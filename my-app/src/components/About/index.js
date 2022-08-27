@@ -1,40 +1,49 @@
 import React from "react";
+import myBioPic from '../../assets/images/Bio-Pic-L.jpg'
+import { Col } from 'react-bootstrap';
 
 function About() {
   return (
-    <div>
-      <h1>About Page</h1>
+
+    <section className="title">
+
+    <div className="row justify-content-center" id="about-container">
+      <Col lg={6} md={12}>
+        <center><img src={myBioPic} className="my-image" alt="alejandro-profile"/></center>
+      <h1 class="name">Alejandro Cortez</h1>
+      <h2 class="title">Full Stack Web Developer</h2>
+      <h3 class="bio">Welcome to my profile</h3>
       <p>
         I am a descendent of Mexican parents, a born and raised native of NYC.
-      </p>
-
-      <p>
+      <br></br>
+      <br></br>
         Currently the Director of Dining Operations for the Guggenheim Museum. I
         am a graduate of the French Culinary Institute and have been working in
         the Restaurant / Hospitality industry for over 19 years.
-      </p>
-
-      <p>
+      <br></br>
+      <br></br>
         As someone who's always loved technology and wondered the intricacies
         behind them, I decided to take the leap and start a new journey and
         career path.
-      </p>
-
-      <p>
+      <br></br>
+      <br></br>
         I have enrolled in Columbia University's Engineering Coding Boot Camp to
         transition as a Full-Stack Software Engineer. The knowledge and
         experience I am developing in this bootcamp will provide the
         fundamentals to the vast array of technologies, languages, frameworks,
         and the processes behind them.
-      </p>
-
-      <p>
+      <br></br>
+      <br></br>
         I am excited to start this incredible journey to grow in the tech
         industry and acheive my end goal in a blossoming career in Cloud
         Computing.
+      <br></br>
+      <br></br>
       </p>
+      </Col>
+
     </div>
-  );
-}
+    </section>
+  )}
 
 export default About;
