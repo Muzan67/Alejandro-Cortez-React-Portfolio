@@ -1,23 +1,19 @@
 import React from "react";
-import NavTabs from "./NavTabs";
-import Home from "./pages/Home";
-import About from "./pages/About";
-import Resume from "./pages/Resume";
-import Contact from "./pages/Contact";
-import PortfolioContainer from "./components/PortfolioContainer";
+import Header from "./components/Footer";
+// import Footer from './components/Footer;
+import "./App.css";
+import "bootstrap/dist/css/bootstrap.min.css";
 
-const App = () => { <PortfolioContainer />;
-
-return (
- <div>
-    <NavTabs />
-    <main>
-        <Home />
-        <About />
-        <Resume />
-        <Contact />
-    </main>
- </div>
-);
-}
+const App = () => {
+  return (
+    <>
+      <div>
+        <Header></Header>
+      </div>
+      {/* <div>
+    <Footer></Footer>
+  </div> */}
+    </>
+  );
+};
 export default App;
