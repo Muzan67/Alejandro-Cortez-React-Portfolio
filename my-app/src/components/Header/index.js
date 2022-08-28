@@ -2,19 +2,19 @@ import React, { useState } from 'react';
 import Navigation from '../Navigation';
 import About from '../About';
 import Projects from '../Projects';
-import Contact from '../Projects';
+import Contact from '../Contact';
 import Resume from '../Resume';
 
 function Portfolio() {
     // state of current page
-  const [currentPage, setCurrentPage] = useState('About');
+  const [currentPage, handlePageChange] = useState('About');
 
   const renderPage = () => {
   // This method is checking to see what the value of `currentPage` is. Depending on the value of currentPage, we return the corresponding component to render.
   switch(currentPage) {
     case "about":
       return <About />
-    case "projects":
+    case "portfolio":
       return <Projects />
     case "contact":
       return <Contact />
@@ -24,6 +24,8 @@ function Portfolio() {
     return <About />
     } 
 };
+
+// const handlePageChange = (page) => setCurrentPage(page);
 
 return (
     <div>
