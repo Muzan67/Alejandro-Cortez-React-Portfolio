@@ -1,14 +1,14 @@
 import React from "react";
-import myBioPic from '../../assets/images/Bio-Pic-L.jpg'
-import { Col } from 'react-bootstrap';
+import myBioPic from '../../assets/images/Bio-Pic-S.jpeg'
+// import { Col } from 'react-bootstrap';
 
 function About() {
   return (
 
-    <section className="title">
+    <section className="">
 
     <div className="row justify-content-center" id="about-container">
-      <Col lg={6} md={12}>
+      {/* <Col lg={6} md={12}> */}
         <center><img src={myBioPic} className="my-image" alt="alejandro-profile"/></center>
       <h1 class="name">Alejandro Cortez</h1>
       <h2 class="title">Full Stack Web Developer</h2>
@@ -34,13 +34,12 @@ function About() {
         and the processes behind them.
       <br></br>
       <br></br>
-        I am excited to start this incredible journey to grow in the tech
-        industry and acheive my end goal in a blossoming career in Cloud
-        Computing.
+        I am excited to start this incredible journey to grow in the tech-industry
+        and acheive my end goal in a blossoming career in as a Full Stack Web Developer.
       <br></br>
       <br></br>
       </p>
-      </Col>
+      {/* </Col> */}
 
     </div>
     </section>
