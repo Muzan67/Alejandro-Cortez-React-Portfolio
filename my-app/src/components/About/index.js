@@ -1,6 +1,6 @@
 import React from "react";
 import myBioPic from '../../assets/images/Bio-Pic-S.jpeg'
-// import { Col } from 'react-bootstrap';
+import { Col } from 'react-bootstrap';
 
 function About() {
   return (
@@ -8,12 +8,15 @@ function About() {
     <section className="">
 
     <div className="row justify-content-center" id="about-container">
-      {/* <Col lg={6} md={12}> */}
+      <Col lg={6} md={12}>
         <center><img src={myBioPic} className="my-image" alt="alejandro-profile"/></center>
-      <h1 class="name">Alejandro Cortez</h1>
-      <h2 class="title">Full Stack Web Developer</h2>
-      <h3 class="bio">Welcome to my profile</h3>
-      <p>
+      <br></br>
+      <h1 class="name"style={{textAlign:"center"}}  >Alejandro Cortez</h1>
+      <h2 class="title"style={{textAlign:"center"}} >Full Stack Web Developer</h2>
+      <br></br>
+      <h3 class="bio" style={{textAlign:"center"}}>Welcome to my profile</h3>
+      <br></br>
+      <p style={{textAlign:"center"}}>
         I am a descendent of Mexican parents, a born and raised native of NYC.
       <br></br>
       <br></br>
@@ -22,7 +25,7 @@ function About() {
         the Restaurant / Hospitality industry for over 19 years.
       <br></br>
       <br></br>
-        As someone who's always loved technology and wondered the intricacies
+        As someone who's always loved technology and wondered about the intricacies
         behind them, I decided to take the leap and start a new journey and
         career path.
       <br></br>
@@ -38,8 +41,9 @@ function About() {
         and acheive my end goal in a blossoming career in as a Full Stack Web Developer.
       <br></br>
       <br></br>
+      <br></br>
       </p>
-      {/* </Col> */}
+      </Col>
 
     </div>
     </section>
