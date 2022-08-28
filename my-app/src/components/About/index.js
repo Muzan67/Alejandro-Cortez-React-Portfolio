@@ -9,11 +9,12 @@ function About() {
 
     <div className="row justify-content-center" id="about-container">
       <Col lg={6} md={12}>
+      <br></br>
+      <br></br>
         <center><img src={myBioPic} className="my-image" alt="alejandro-profile"/></center>
       <br></br>
-      <h1 class="name"style={{textAlign:"center"}}  >Alejandro Cortez</h1>
-      <h2 class="title"style={{textAlign:"center"}} >Full Stack Web Developer</h2>
-      <br></br>
+      <h1 class="name" style={{textAlign:"center"}}  >Alejandro Cortez</h1>
+      <h2 class="title" style={{textAlign:"center"}} >Full Stack Web Developer</h2>
       <h3 class="bio" style={{textAlign:"center"}}>Welcome to my profile</h3>
       <br></br>
       <p style={{textAlign:"center"}}>

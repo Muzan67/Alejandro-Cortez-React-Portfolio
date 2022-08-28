@@ -2,7 +2,7 @@ import React from "react";
 
 function Footer() {
   return (
-    <div className="page-footer" id="footer">
+    <div className="page-footer" id="footer" style={{textAlign:"center"}}>
         <a href="mailto: ac.tendo67@gmail.com">
         <img
           src="https://img.icons8.com/stickers/150/000000/gmail-new.png"

@@ -17,10 +17,40 @@ code {
 *  {
   background: #acb7e9;
   font-family: 'Indie Flower', cursive;; 
-  font-weight: bold;
+  font-weight: bolder;
   font-size: large;
   box-sizing: border-box;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
 
+p {
+  font-size: 24px;
+  color: #ffff;
+  font-weight: bold;
+  font-family: 'Shadows Into Light', cursive;
+}
+
+h1 {
+  margin: auto 30px; 
+  padding: 10px;
+  color: #0000ff;
+  font-weight: bold;
+  font-family: 'Shadows Into Light', cursive;
+}
+
+h2 {
+  margin: auto 30px; 
+  padding: 10px;
+  color: #a02763;
+  font-weight: bold;
+  font-family: 'Shadows Into Light', cursive;
+}
+
+h3 {
+  margin: auto 30px; 
+  padding: 10px;
+  color: #0000ff;
+  font-weight: bold;
+  font-family: 'Shadows Into Light', cursive;
+}
