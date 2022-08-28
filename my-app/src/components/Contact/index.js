@@ -1,13 +1,13 @@
-import React from "react";
-import { Row, Col } from 'react-bootstrap';
+// import React from "react";
+// import { Row, Col } from 'react-bootstrap';
 
-function Contact() {
-  return (
-    <div>
-      <h1>Contact Me</h1>
-      <p>Please Contact Me @!</p>
-    </div>
-  );
-}
+// function Contact() {
+//   return (
+//     <div>
+//       <h1>Contact Me</h1>
+//       <p>Please Contact Me @!</p>
+//     </div>
+//   );
+// }
 
-export default Contact
+// export default Contact
