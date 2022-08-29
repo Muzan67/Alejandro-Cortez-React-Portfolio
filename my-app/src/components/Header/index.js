@@ -12,14 +12,14 @@ function Portfolio() {
   const renderPage = () => {
   // This method is checking to see what the value of `currentPage` is. Depending on the value of currentPage, we return the corresponding component to render.
   switch(currentPage) {
-    case "about":
-      return <About></About>
-    case "portfolio":
-      return <Projects></Projects>
-    case "contact":
-      return <Contact></Contact>
-    case "resume":
-     return <Resume></Resume>
+    case "About":
+      return <About />
+      case "Projects":
+        return <Projects />
+    case "Contact":
+      return <Contact />
+    case "Resume":
+     return <Resume />
   default:
     return <About></About>
     } 
