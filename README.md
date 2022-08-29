@@ -1,5 +1,8 @@
 # Alejandro Cortez React Portfolio
 
+# Alejandro Cortez React Portfolio - Deployed Application
+
+
 # Alejandro Cortez React Portfolio - Github Repository
 
 https://github.com/Muzan67/Alejandro-Cortez-React-Portfolio
@@ -72,6 +75,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ## Technologies Used
 
 - React
+- React Bootstrap
 - Javascript
 - HTML5
 - CSS
@@ -82,7 +86,7 @@ To install this application, clone the code into your terminal for the respectiv
 
 # Usage
 - Use the navigation bar to navigate through different sections of my portfolio.
-- Click on the various projects under "My Work" to navigate to their page.
+- Click on the various Web Applications in the "Projects" tab to navigate to their page.
 
 ## Screenshot of Alejandro Cortez React Portfolio
 

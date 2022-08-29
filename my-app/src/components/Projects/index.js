@@ -11,23 +11,23 @@ function ProjectCard(props) {
       <div className="content">
         <ul>
           <li>
-            <p className="project-title">{props.name}</p>
+            <p className="project-title" style={{textAlign:"center"}}>{props.name}</p>
           </li>
           <li>
             <p className="project-description">{props.description}</p>
           </li>
           <li>
-            <div className="project-icons">
+            <div className="project-icons" style={{textAlign:"center"}}>
               <a href={props.github}>
                 <img
-                  src="https://img.icons8.com/stickers/150/000000/github.png"
+                  src="https://img.icons8.com/stickers/134/000000/github.png"
                   alt="github-logo"
                   id="port-icon"
                 />
               </a>
               <a href={props.deployedapp}>
                 <img
-                  src="https://img.icons8.com/stickers/150/000000/deployment.png"
+                  src="https://img.icons8.com/stickers/134/000000/deployment.png"
                   alt="deployment-logo"
                   id="port-icon"
                 />
@@ -49,7 +49,7 @@ function Projects() {
   return (
     <>
       <div className="project">
-        <h1 className="title">Full Stack Web Applications</h1>
+        <h2 className="title" style={{textAlign:"center"}} >Full Stack Web Applications</h2>
       </div>
 
       <Wrapper>
