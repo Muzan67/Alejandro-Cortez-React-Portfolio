@@ -12,8 +12,23 @@ code {
     monospace;
 }
 
-/* my added css */
+/* Personalized CSS Styling for React Portfolio */
 
+/* header */
+.header {
+  padding: 30px;
+  font-family: "Indie Flower", cursive;
+  margin: auto 30px;
+}
+
+/* header navigation tabs */
+.nav {
+  justify-content: center;
+  font-size: 100px;
+  font-weight: bold;
+}
+
+/* React Portfolio */
 * {
   background: #acb7e9;
   font-family: "Indie Flower", cursive;
@@ -124,11 +139,6 @@ li {
   justify-content: space-around;
   align-content: flex-start;
   overflow: auto;
-}
-
-/* header navigation tabs */
-.nav {
-  justify-content: center;
 }
 
 /* background color and text for project title */

@@ -29,6 +29,7 @@ function Portfolio() {
 
 return (
     <div>
+      <div className="header" id="header" style={{textAlign:"center"}}></div>
       {/* We are passing the currentPage from state and the function to update it */}
       <Navigation currentPage={currentPage} handlePageChange={handlePageChange} />
       <div>
