@@ -27,7 +27,7 @@ code {
 @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
 
 p {
-  font-size: 24px;
+  font-size: 25px;
   color: #ffff;
   font-weight: bold;
   font-family: 'Indie Flower', cursive; 
@@ -55,6 +55,10 @@ h3 {
   color: #0000ff;
   font-weight: bold;
   font-family: 'Indie Flower', cursive; 
+}
+
+li {
+  color: #00ff00;
 }
 
 /* card styling */
@@ -139,5 +143,34 @@ h3 {
   background-color: white;
   font-weight: bolder;
   color: #a038dd;
+}
+
+/* styling for resume page */
+.contact {
+  margin: auto 30px; 
+  padding: 10px;
+  color: #a038dd;
+  font-weight: bolder;
+  font-family: 'Indie Flower', cursive; 
+}
+
+.technical-skills {
+  margin: auto 30px;
+  color: #ff0000;
+  font-weight: bold;
+  flex: center;
+  justify-content: center;
+  align-content: center;
+  font-size: 22px;
+}
+
+.education {
+  margin: auto 30px;
+  color: #ff0000;
+  font-weight: bold;
+  flex: center;
+  justify-content: center;
+  align-content: center;
+  font-size: 22px;
 }
 
