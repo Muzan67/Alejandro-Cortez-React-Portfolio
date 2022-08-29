@@ -55,29 +55,35 @@ function Contact() {
 
   return (
     <div>
-      <p>Hello and Welcome {userName}</p>
+    <h1 class="contact" style={{textAlign:"center"}}>Contact</h1>
+      {/* <p style={{textAlign:"center"}}> Contact {userName}</p> */}
       <form className="form">
+        <p>Email</p>
         <input
           value={email}
           name="email"
           onChange={handleInputChange}
           type="email"
-          placeholder="email"
+        //   placeholder="email"
         />
+        <p>Username</p>
         <input
           value={userName}
           name="userName"
           onChange={handleInputChange}
           type="text"
-          placeholder="username"
+        //   placeholder="username"
         />
+        <p>Password</p>
         <input
           value={password}
           name="password"
           onChange={handleInputChange}
           type="password"
-          placeholder="Password"
+        //   placeholder="Password"
         />
+        <br></br>
+        <br></br>
         <button type="button" onClick={handleFormSubmit}>Submit</button>
       </form>
       {errorMessage && (

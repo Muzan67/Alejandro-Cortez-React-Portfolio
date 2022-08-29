@@ -49,7 +49,7 @@ function Projects() {
   return (
     <>
       <div className="project">
-        <h2 className="title" style={{textAlign:"center"}} >Full Stack Web Applications</h2>
+        <h2 className="contact" style={{textAlign:"center"}} >Full Stack Web Applications</h2>
       </div>
 
       <Wrapper>

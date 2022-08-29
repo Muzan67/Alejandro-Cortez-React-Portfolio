@@ -1,22 +1,22 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
 
 /* my added css */
 
-*  {
+* {
   background: #acb7e9;
-  font-family: 'Indie Flower', cursive; 
+  font-family: "Indie Flower", cursive;
   font-weight: bolder;
   font-size: large;
   box-sizing: border-box;
@@ -24,37 +24,37 @@ code {
 
 /* text styling */
 
-@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap");
 
 p {
   font-size: 25px;
   color: #ffff;
   font-weight: bold;
-  font-family: 'Indie Flower', cursive; 
+  font-family: "Indie Flower", cursive;
 }
 
 h1 {
-  margin: auto 30px; 
+  margin: auto 30px;
   padding: 10px;
   color: #0000ff;
   font-weight: bold;
-  font-family: 'Indie Flower', cursive; 
+  font-family: "Indie Flower", cursive;
 }
 
 h2 {
-  margin: auto 30px; 
+  margin: auto 30px;
   padding: 10px;
   color: #a038dd;
-  font-weight: bold;
-  font-family: 'Indie Flower', cursive; 
+  font-weight: bolder;
+  font-family: "Indie Flower", cursive;
 }
 
 h3 {
-  margin: auto 30px; 
+  margin: auto 30px;
   padding: 10px;
   color: #0000ff;
   font-weight: bold;
-  font-family: 'Indie Flower', cursive; 
+  font-family: "Indie Flower", cursive;
 }
 
 li {
@@ -102,7 +102,7 @@ li {
 /* card content container */
 .card > .content > ul {
   list-style-type: none;
-  padding-right: .5rem;
+  padding-right: 0.5rem;
   padding-left: 1.5rem;
   background-color: #ffff;
 }
@@ -135,7 +135,7 @@ li {
 .project-title {
   background-color: rgb(255, 4, 4);
   font-weight: bolder;
-  font-family: 'Indie Flower', cursive; 
+  font-family: "Indie Flower", cursive;
 }
 
 /* text for wrapper content */
@@ -147,11 +147,11 @@ li {
 
 /* styling for resume page */
 .contact {
-  margin: auto 30px; 
+  margin: auto 30px;
   padding: 10px;
   color: #a038dd;
   font-weight: bolder;
-  font-family: 'Indie Flower', cursive; 
+  font-family: "Indie Flower", cursive;
 }
 
 .technical-skills {
@@ -174,3 +174,14 @@ li {
   font-size: 22px;
 }
 
+/* styling for contact page */
+.form {
+  margin: 50px;
+}
+
+.form input {
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 50%;
+}

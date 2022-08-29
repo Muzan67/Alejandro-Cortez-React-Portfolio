@@ -14,7 +14,7 @@ function About() {
         <center><img src={myBioPic} className="my-image" alt="alejandro-profile"/></center>
       <br></br>
       <h1 class="name" style={{textAlign:"center"}}  >Alejandro Cortez</h1>
-      <h2 class="title" style={{textAlign:"center"}} >Full Stack Web Developer</h2>
+      <h2 class="contact" style={{textAlign:"center"}} >Full Stack Web Developer</h2>
       <h3 class="bio" style={{textAlign:"center"}}>Welcome to my profile</h3>
       <br></br>
       <p style={{textAlign:"center"}}>
