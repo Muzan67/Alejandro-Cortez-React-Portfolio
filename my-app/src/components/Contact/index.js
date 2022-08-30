@@ -54,6 +54,7 @@ function Contact() {
 
   return (
     <div>
+      <br></br>
       <h1 class="contact" style={{ textAlign: "center" }}>
         Contact Me
       </h1>
@@ -62,7 +63,7 @@ function Contact() {
         <p>Name</p>
         <input
           value={Name}
-          name="userName"
+          name="name"
           onChange={handleInputChange}
           type="text"
           //   placeholder="username"

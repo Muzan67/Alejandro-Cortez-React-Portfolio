@@ -4,6 +4,7 @@ import { Row, Col } from "react-bootstrap";
 function Resume() {
   return (
     <section>
+      <br></br>
       <h1 class="contact" style={{ textAlign: "center" }}>
         Programming Languages & Tools
       </h1>
