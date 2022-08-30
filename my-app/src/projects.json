@@ -25,6 +25,23 @@
     "deployedapp": "https://cryptic-earth-46353.herokuapp.com/",
     "description": "The application will allows users to track their finances and give them the ability to handle their transactions while offline. If any transactions were made offline, the sum total will update when the user has established online access.",
     "skills": "Javascript | CSS | HTML5 | CSS-Framework | Modals | Client Side Storage | Server Side API"
+    },
+    {
+    "id": 4,
+    "name": "API Weather",
+    "image": "https://user-images.githubusercontent.com/102841726/185287220-cf09a654-c6e0-446c-85b0-aac47e8e146b.jpg",
+    "github": "https://github.com/Muzan67/APIWeather",
+    "deployedapp": "https://muzan67.github.io/APIWeather/",
+    "description": "This weather dashboard contains a search function to search for the weather of a particular city, then displays present and future weather conditions for that city.",
+    "skills": "Javascript | CSS | HTML5 | Bootsrap | Moment.js | JQuery"
+    },
+    {
+    "id": 5,
+    "name": "Password Generator",
+    "image": "https://user-images.githubusercontent.com/102841726/182007885-d21e25ab-88c6-4d79-a0dc-84ac30c0f8cb.png",
+    "github": "https://github.com/Muzan67/Javasciptmypassword",
+    "deployedapp": "https://muzan67.github.io/Javasciptmypassword/",
+    "description": "This is a password generator that generates a random password based on selected criteria.",
+    "skills": "Javascript | CSS | HTML5 | Bootsrap | Moment.js | JQuery"
     }
-
 ]

@@ -9,8 +9,9 @@ function Contact() {
   // We are also setting their initial values to an empty string
   const [email, setEmail] = useState("");
   const [Name, setName] = useState("");
-  const [message, setMessage] = useState("");
+  const [message, setMessage,] = useState("");
   const [errorMessage, setErrorMessage] = useState("");
+  
 
   const handleInputChange = (e) => {
     // Getting the value and name of the input which triggered the change
@@ -74,13 +75,14 @@ function Contact() {
           type="email"
           //   placeholder="email"
         />
-        <p>Message</p>
-        <input
+        <p> Message</p>
+        <input 
           value={message}
           name="message"
           onChange={handleInputChange}
           type="messagepassword"
-          //   placeholder="Password"
+          className="message-input"
+          //   placeholder="message"
         />
         <br></br>
         <br></br>
