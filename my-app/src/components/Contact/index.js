@@ -54,7 +54,7 @@ function Contact() {
   return (
     <div>
       <h1 class="contact" style={{ textAlign: "center" }}>
-        Contact
+        Contact Me
       </h1>
       {/* <p style={{textAlign:"center"}}> Contact {userName}</p> */}
       <form className="form">

@@ -5,7 +5,7 @@ function Resume() {
   return (
     <section>
       <h1 class="contact" style={{ textAlign: "center" }}>
-        Contact Me
+        Programming Languages & Tools
       </h1>
 
       <div class="technical-skills">

@@ -19,13 +19,16 @@ code {
   padding: 30px;
   font-family: "Indie Flower", cursive;
   margin: auto 30px;
+  font-size: large;
+  font-weight: bolder;
 }
 
 /* header navigation tabs */
 .nav {
   justify-content: center;
   font-size: 100px;
-  font-weight: bold;
+  font-weight: bolder;
+  text-decoration: underline;
 }
 
 /* React Portfolio */
@@ -35,6 +38,11 @@ code {
   font-weight: bolder;
   font-size: large;
   box-sizing: border-box;
+}
+
+.my-image {
+  border-radius: 25%;
+  padding: 5px 5px;
 }
 
 /* text styling */
@@ -73,7 +81,7 @@ h3 {
 }
 
 li {
-  color: #00ff00;
+  color: #ff00bf;
 }
 
 /* card styling */
@@ -194,6 +202,6 @@ li {
   margin-top: 10px;
   margin-bottom: 10px;
   width: 50%;
-  height: 100px;
+  height: 50px;
   background-color: #ffff;
 }
