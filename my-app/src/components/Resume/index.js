@@ -4,11 +4,11 @@ import { Row, Col } from "react-bootstrap";
 function Resume() {
   return (
     <section>
-      <br></br>
+
       <h1 class="contact" style={{ textAlign: "center" }}>
         Programming Languages & Tools
       </h1>
-
+      <br></br>
       <div class="technical-skills">
         <Row>
         <Col xs={6} md={4}>
@@ -115,8 +115,6 @@ function Resume() {
               LaGuardia Commuity College
               <br></br>
               AA/BS Program in Liberal Arts / Secondary Education
-              <br></br>
-              <br></br>
             </p>
           </Col>
         </Row>

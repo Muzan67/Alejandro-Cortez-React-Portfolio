@@ -204,6 +204,7 @@ li {
   margin: 50px;
 }
 
+/* container size for name and email container on contact page */
 .form input {
   display: block;
   margin-top: 5px;
@@ -213,6 +214,19 @@ li {
   background-color: #ffff;
 }
 
+/* extends height to message container on contact page */
 .form > .message-input {
   height: 15rem;
 }
+
+.page-footer {
+  /* padding: 15px; */
+  margin: auto 10px;
+  justify-content: space-between;
+}
+
+
+
+
+
+
