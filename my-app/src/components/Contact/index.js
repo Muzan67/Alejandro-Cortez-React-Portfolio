@@ -7,11 +7,10 @@ import { checkPassword, validateEmail } from "../../utils/helper";
 function Contact() {
   // Create state variables for the fields in the form
   // We are also setting their initial values to an empty string
+  const [name, setName] = useState("");
   const [email, setEmail] = useState("");
-  const [Name, setName] = useState("");
-  const [message, setMessage,] = useState("");
+  const [message, setMessage] = useState("");
   const [errorMessage, setErrorMessage] = useState("");
-  
 
   const handleInputChange = (e) => {
     // Getting the value and name of the input which triggered the change
@@ -22,7 +21,7 @@ function Contact() {
     // Based on the input type, we set the state of either email, username, and password
     if (inputType === "email") {
       setEmail(inputValue);
-    } else if (inputType === "Name") {
+    } else if (inputType === "name") {
       setName(inputValue);
     } else {
       setMessage(inputValue);
@@ -34,17 +33,17 @@ function Contact() {
     e.preventDefault();
 
     // First we check to see if the email is not valid or if the userName is empty. If so we set an error message to be displayed on the page.
-    if (!validateEmail(email) || !Name) {
+    if (!validateEmail(email) || !name) {
       setErrorMessage("Email or username is invalid");
       // We want to exit out of this code block if something is wrong so that the user can correct it
       return;
       // Then we check to see if the password is not valid. If so, we set an error message regarding the password.
     }
     if (!checkPassword(message)) {
-      setErrorMessage(`Choose a more secure password for the account: ${Name}`);
+      setErrorMessage(`Choose a more secure password for the account: ${name}`);
       return;
     }
-    alert(`Hello ${Name}`);
+    alert(`Hello ${name}`);
 
     // If everything goes according to plan, we want to clear out the input after a successful registration.
     setName("");
@@ -62,7 +61,7 @@ function Contact() {
       <form className="form">
         <p>Name</p>
         <input
-          value={Name}
+          value={name}
           name="name"
           onChange={handleInputChange}
           type="text"
@@ -77,7 +76,7 @@ function Contact() {
           //   placeholder="email"
         />
         <p> Message</p>
-        <input 
+        <input
           value={message}
           name="message"
           onChange={handleInputChange}
