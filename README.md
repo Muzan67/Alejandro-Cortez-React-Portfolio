@@ -89,6 +89,5 @@ To install this application, clone the code into your terminal for the respectiv
 - Click on the various Web Applications in the "Projects" tab to navigate to their page.
 
 ## Screenshot of Alejandro Cortez React Portfolio
-![182036951-4c951064-2f87-4496-9584-48fcd6f73ee9](https://user-images.githubusercontent.com/102841726/187491026-ed9148dd-a046-455b-8824-d6ef1fbf8250.png)
 
 
