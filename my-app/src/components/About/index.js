@@ -42,7 +42,6 @@ function About() {
         and acheive my end goal in a blossoming career in as a Full Stack Web Developer.
       <br></br>
       <br></br>
-      <br></br>
       </p>
       </Col>
 
