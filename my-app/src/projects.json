@@ -2,11 +2,11 @@
     {
     "id": 1,
     "name": "Beauty-Ecommerce",
-    "image": "https://user-images.githubusercontent.com/102841726/182036951-4c951064-2f87-4496-9584-48fcd6f73ee9.png",
+    "image": "",
     "github": "https://github.com/Muzan67/Beauty-Ecommerce",
     "deployedapp": "https://beauty-ecommerce.herokuapp.com/",
     "description": "Beauty E Commerce is a new marketplace for high end Korean beauty and skincare products, which provide the consumer to purchase these highly sought after products and receive them within a timely matter, retain new consumers as well as satisfy returning guests.",
-    "skills": "Model View Control (MVC) | Handlebars.js | Node.js | Express.js | Express Session | Dotenv | Bcrypt | Object Oriented Programming (OOP) | MySQL/Sequelize | Create Read Update Delete (CRUD)"
+    "skills": "(MVC) | Handlebars.js | Node.js | Express.js | Express Session | Dotenv | Bcrypt | (OOP) | MySQL/Sequelize | CRUD"
     },
     {
     "id": 2,
@@ -20,7 +20,7 @@
     {
     "id": 3,
     "name": "Personal Finances",
-    "image": "https://user-images.githubusercontent.com/102841726/185766769-d8cf0277-4fe7-4361-92f2-25e3b0ec242e.png",
+    "image": "https://user-images.githubusercontent.com/102841726/187489794-2cc77eef-c068-45c7-a655-4f922e34c790.png",
     "github": "https://github.com/Muzan67/Social-Network-API-NoSQL",
     "deployedapp": "https://cryptic-earth-46353.herokuapp.com/",
     "description": "The application will allows users to track their finances and give them the ability to handle their transactions while offline. If any transactions were made offline, the sum total will update when the user has established online access.",

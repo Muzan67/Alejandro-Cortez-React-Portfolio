@@ -106,7 +106,7 @@ li {
 
 /* card container */
 .card > .img-container {
-  height: 50%;
+  /* max-height: 185px; */
   overflow: hidden;
   text-align: center;
   border-radius: 10px;
@@ -142,12 +142,13 @@ li {
   margin-top: 18px;
   background-color: #ffff;
   font-weight: bolder;
+  max-height: 400px;
 }
 
 /* wrapper contains project */
 .wrapper {
-  padding-top: 50px;
-  height: 100%;
+  padding-top: 100px;
+  /* height: 50%; */
   display: flex;
   flex-flow: row wrap;
   padding: 20px;
@@ -163,11 +164,17 @@ li {
   font-family: "Indie Flower", cursive;
 }
 
+/* repository and deployed application icons in card */
+#port-icon {
+  flex-flow: row wrap;
+}
+
 /* text for wrapper content */
 .project-description {
   background-color: white;
   font-weight: bolder;
   color: #a038dd;
+  max-height: 400px;
 }
 
 /* styling for resume page */
