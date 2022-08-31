@@ -5,8 +5,8 @@ import projects from "../../projects.json";
 function ProjectCard(props) {
   return (
     <div className="card">
-      <div className="img-container">
-        <img alt={props.name} src={props.image} />
+      <div className="img-container" height="100px">
+        <img alt={props.name} src={props.image} height="100%"/>
       </div>
       <div className="content">
         <ul>

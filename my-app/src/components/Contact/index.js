@@ -40,7 +40,7 @@ function Contact() {
       // Then we check to see if the password is not valid. If so, we set an error message regarding the password.
     }
     if (!checkPassword(message)) {
-      setErrorMessage(`Choose a more secure password for the account: ${name}`);
+      setErrorMessage(`Thank you for getting in touch! : ${name}`);
       return;
     }
     alert(`Hello ${name}`);
@@ -53,11 +53,10 @@ function Contact() {
 
   return (
     <div>
-      <br></br>
+
       <h1 class="contact" style={{ textAlign: "center" }}>
         Contact Me
       </h1>
-      {/* <p style={{textAlign:"center"}}> Contact {userName}</p> */}
       <form className="form">
         <p>Name</p>
         <input
@@ -84,7 +83,6 @@ function Contact() {
           className="message-input"
           //   placeholder="message"
         />
-        <br></br>
         <br></br>
         <button type="button" onClick={handleFormSubmit}>
           Submit

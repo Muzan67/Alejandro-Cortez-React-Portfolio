@@ -106,7 +106,7 @@ li {
 
 /* card container */
 .card > .img-container {
-  /* max-height: 185px; */
+  height: 215px;
   overflow: hidden;
   text-align: center;
   border-radius: 10px;
@@ -115,8 +115,9 @@ li {
 
 /* card container for images */
 .card > .img-container > img {
+  height: 100%;
   width: 100%;
-  padding: 25px;
+  padding: 8px;
   background-color: #ffff;
 }
 
@@ -142,7 +143,7 @@ li {
   margin-top: 18px;
   background-color: #ffff;
   font-weight: bolder;
-  max-height: 400px;
+  max-height: 345px;
 }
 
 /* wrapper contains project */
@@ -174,7 +175,7 @@ li {
   background-color: white;
   font-weight: bolder;
   color: #a038dd;
-  max-height: 400px;
+  height: 400px;
 }
 
 /* styling for resume page */
@@ -223,7 +224,7 @@ li {
 
 /* extends height to message container on contact page */
 .form > .message-input {
-  height: 15rem;
+  height: 12rem;
 }
 
 .page-footer {
@@ -231,7 +232,6 @@ li {
   margin: auto 10px;
   justify-content: space-between;
 }
-
 
 
 

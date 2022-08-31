@@ -5,7 +5,7 @@
     "image": "https://user-images.githubusercontent.com/102841726/187491026-ed9148dd-a046-455b-8824-d6ef1fbf8250.png",
     "github": "https://github.com/Muzan67/Beauty-Ecommerce",
     "deployedapp": "https://beauty-ecommerce.herokuapp.com/",
-    "description": "Beauty E Commerce is a new marketplace for high end Korean beauty and skincare products, which provide the consumer to purchase these highly sought after products and receive them within a timely matter, retain new consumers as well as satisfy returning guests.",
+    "description": "Beauty E Commerce is a new marketplace for high end Korean beauty and skincare products, which provide the consumer to purchase these highly sought after products and receive them within a timely matter.",
     "skills": "(MVC) | Handlebars.js | Node.js | Express.js | Express Session | Dotenv | Bcrypt | (OOP) | MySQL/Sequelize | CRUD"
   },
   {
@@ -23,7 +23,7 @@
     "image": "https://user-images.githubusercontent.com/102841726/187489794-2cc77eef-c068-45c7-a655-4f922e34c790.png",
     "github": "https://github.com/Muzan67/Social-Network-API-NoSQL",
     "deployedapp": "https://cryptic-earth-46353.herokuapp.com/",
-    "description": "The application will allows users to track their finances and give them the ability to handle their transactions while offline. If any transactions were made offline, the sum total will update when the user has established online access.",
+    "description": "The application allows users to track their finances and handle their transactions while offline. If transactions were made offline, the sum total will update when online access is established.",
     "skills": "Javascript | CSS | HTML5 | CSS-Framework | Modals | Client Side Storage | Server Side API"
   },
   {
