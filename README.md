@@ -1,5 +1,6 @@
 # Alejandro Cortez React Portfolio
 
+
 # Alejandro Cortez React Portfolio - Deployed Application
 
 
@@ -89,5 +90,5 @@ To install this application, clone the code into your terminal for the respectiv
 - Click on the various Web Applications in the "Projects" tab to navigate to their page.
 
 ## Screenshot of Alejandro Cortez React Portfolio
-
+![React Profile image](https://user-images.githubusercontent.com/102841726/187580995-24532cd2-5933-4d27-9c52-6b2bf5bd03de.png)
 
