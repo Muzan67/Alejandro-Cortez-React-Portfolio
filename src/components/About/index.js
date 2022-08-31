@@ -20,7 +20,6 @@ function About() {
       <p style={{textAlign:"center"}}>
         I am a descendent of Mexican parents, a born and raised native of NYC.
       <br></br>
-      <br></br>
         Currently the Director of Dining Operations for the Guggenheim Museum. I
         am a graduate of the French Culinary Institute and have been working in
         the Restaurant / Hospitality industry for over 19 years.
