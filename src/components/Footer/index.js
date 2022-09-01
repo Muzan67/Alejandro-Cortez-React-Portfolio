@@ -35,6 +35,10 @@ function Footer() {
           className="page-footer"
         />
       </a>
+      <br></br>
+      <br></br>
+      <h4 className="container">(&copy;) 2022 by Alejandro Cortez</h4>
+      <br></br>
     </div>
   );
 }
