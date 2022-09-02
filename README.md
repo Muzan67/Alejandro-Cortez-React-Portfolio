@@ -2,10 +2,14 @@
 
 # Alejandro Cortez React Portfolio - Deployed Application
 
+https://muzan67.github.io/Alejandro-Cortez-React-Portfolio/
+
 # Alejandro Cortez React Portfolio - Github Repository
+
 https://github.com/Muzan67/Alejandro-Cortez-React-Portfolio
 
 # Desciption
+
 My React Portfolio contains:
 
 - A section about me
@@ -26,6 +30,7 @@ My React Portfolio contains:
 - Screenshot
 
 # User Story
+
 ```
 AS AN employer looking for candidates with experience building single-page applications
 I WANT to view a potential employee's deployed React portfolio of work samples
@@ -33,6 +38,7 @@ SO THAT I can assess whether they're a good candidate for an open position
 ```
 
 # Acceptance Criteria
+
 ```
 GIVEN a single-page application portfolio for a web developer
 WHEN I load the portfolio
@@ -62,9 +68,11 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ```
 
 # License
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Technologies Used
+
 - React
 - React Bootstrap
 - Javascript
@@ -72,13 +80,14 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 - CSS
 
 # Installation
+
 To install this application, clone the code into your terminal for the respective repository.
 
 # Usage
+
 - Use the navigation bar to navigate through different sections of my portfolio.
 - Click on the various Web Applications in the "Projects" tab to navigate to their page.
 
 # Screenshot of Alejandro Cortez React Portfolio
-![React Profile image](https://user-images.githubusercontent.com/102841726/187775256-c1d03550-c50c-45d5-9018-6c3d209682ec.png)
 
-
+![React Profile image](https://user-images.githubusercontent.com/102841726/188032612-dbf51eac-6c97-43fc-aabd-381746ce799a.png)
