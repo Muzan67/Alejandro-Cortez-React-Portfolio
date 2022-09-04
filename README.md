@@ -27,7 +27,8 @@ My React Portfolio contains:
 - Technologies Used
 - Installation
 - Usage
-- Screenshot
+- Questions / Inquiry
+- Screenshots
 
 # User Story
 
@@ -81,13 +82,34 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 # Installation
 
-To install this application, clone the code into your terminal for the respective repository.
+1. To install this application, clone the code into your terminal for the respective repository.
+
+Run the following commands in the command-line in the root of the folder:
+
+2. npm run build
+3. npm start
 
 # Usage
 
 - Use the navigation bar to navigate through different sections of my portfolio.
-- Click on the various Web Applications in the "Projects" tab to navigate to their page.
+- Click on the various Web Applications in the "Projects" tab to navigate to their deployed page and/or repository.
 
-# Screenshot of Alejandro Cortez React Portfolio
+# Questions / Inquiry
+
+- You can view more of my projects at https://github.com/Muzan67
+- My Github username is Muzan67, the repository for my React Portfolio can be found at https://github.com/Muzan67/Alejandro-Cortez-React-Portfolio
+- The Github page for this project can be accessed using the following link: https://muzan67.github.io/Alejandro-Cortez-React-Portfolio/
+
+- If you have any questions about this projects, please contact me directly at ac.tendo67@gmail.com
+
+- How to reach me: https://www.linkedin.com/in/alejandro-cortez1967/
+
+# Screenshots of Alejandro Cortez React Portfolio
 
 ![React Portfolio](https://user-images.githubusercontent.com/102841726/188293044-2ec4ee46-28ad-407e-b597-e857686bb218.png)
+
+![Projects](https://user-images.githubusercontent.com/102841726/188326952-6b6b7d4b-368d-477d-8b2b-3f0d69c76465.png)
+
+![Contact](https://user-images.githubusercontent.com/102841726/188326967-660fc304-2caf-4aa6-abbd-0d8cd50bfe41.png)
+
+![Resume](https://user-images.githubusercontent.com/102841726/188326994-a26707f1-7bbe-41bd-a46d-c4271766531e.png)
