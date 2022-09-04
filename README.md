@@ -90,4 +90,4 @@ To install this application, clone the code into your terminal for the respectiv
 
 # Screenshot of Alejandro Cortez React Portfolio
 
-![React Profile image](https://user-images.githubusercontent.com/102841726/188032612-dbf51eac-6c97-43fc-aabd-381746ce799a.png)
+![React Portfolio](https://user-images.githubusercontent.com/102841726/188293044-2ec4ee46-28ad-407e-b597-e857686bb218.png)
