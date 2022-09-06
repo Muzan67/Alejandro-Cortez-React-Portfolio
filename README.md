@@ -19,6 +19,7 @@ My React Portfolio contains:
 
 # Table of Contents
 
+- Alejandro Cortez React Portfolio - Deployed Application
 - Alejandro Cortez React Portfolio - Github Repository
 - Description
 - User Story
