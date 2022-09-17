@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Alejandro-Cortez-React-Portfolio/static/css/main.018dbf35.css",
-    "main.js": "/Alejandro-Cortez-React-Portfolio/static/js/main.060c55ec.js",
+    "main.js": "/Alejandro-Cortez-React-Portfolio/static/js/main.03d557da.js",
     "static/js/787.28cb0dcd.chunk.js": "/Alejandro-Cortez-React-Portfolio/static/js/787.28cb0dcd.chunk.js",
     "static/media/Bio-Pic-S.jpeg": "/Alejandro-Cortez-React-Portfolio/static/media/Bio-Pic-S.7b11c8ac8dbb67944631.jpeg",
     "index.html": "/Alejandro-Cortez-React-Portfolio/index.html",
     "main.018dbf35.css.map": "/Alejandro-Cortez-React-Portfolio/static/css/main.018dbf35.css.map",
-    "main.060c55ec.js.map": "/Alejandro-Cortez-React-Portfolio/static/js/main.060c55ec.js.map",
+    "main.03d557da.js.map": "/Alejandro-Cortez-React-Portfolio/static/js/main.03d557da.js.map",
     "787.28cb0dcd.chunk.js.map": "/Alejandro-Cortez-React-Portfolio/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.018dbf35.css",
-    "static/js/main.060c55ec.js"
+    "static/js/main.03d557da.js"
   ]
 }
