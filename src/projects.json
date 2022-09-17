@@ -1,6 +1,15 @@
 [
   {
     "id": 1,
+    "name": "Restaurateur",
+    "image": "https://user-images.githubusercontent.com/102841726/190304167-3115cee8-c6d6-42e5-9744-86e859e86b0b.png",
+    "github": "https://github.com/Muzan67/restaurateur",
+    "deployedapp": "https://intense-inlet-07195.herokuapp.com/",
+    "description": "The Restaurateur app offers you a Step-by-Step Guide to opening a Restaurant in New York City. Numerous available resources which will help you successfully open your dream restaurant!",
+    "skills": "ReactJS | React Bootstrap | React Router | React Scripts | Javascript | HTML5 | Index.CSS | MongoDB Atlas | Heroku | Apollo Client | Apollo Server | GraphQL | JWT | Mongoose"
+  },
+  {
+    "id": 2,
     "name": "Beauty-Ecommerce",
     "image": "https://user-images.githubusercontent.com/102841726/187491026-ed9148dd-a046-455b-8824-d6ef1fbf8250.png",
     "github": "https://github.com/Muzan67/Beauty-Ecommerce",
@@ -9,7 +18,7 @@
     "skills": "(MVC) | Handlebars.js | Node.js | Express.js | Express Session | Dotenv | Bcrypt | (OOP) | MySQL/Sequelize | CRUD"
   },
   {
-    "id": 2,
+    "id": 3,
     "name": "Media-Generator",
     "image": "https://raw.githubusercontent.com/Muzan67/media-generator/main/assets/images/mediaHome.png",
     "github": "https://github.com/Muzan67/media-generator",
@@ -18,7 +27,7 @@
     "skills": "Javascript | CSS | HTML5 | CSS-Framework | Modals | Client Side Storage | Server Side API"
   },
   {
-    "id": 3,
+    "id": 4,
     "name": "Personal Finances",
     "image": "https://user-images.githubusercontent.com/102841726/187489794-2cc77eef-c068-45c7-a655-4f922e34c790.png",
     "github": "https://github.com/Muzan67/Social-Network-API-NoSQL",
@@ -27,7 +36,7 @@
     "skills": "Javascript | CSS | HTML5 | CSS-Framework | Modals | Client Side Storage | Server Side API"
   },
   {
-    "id": 4,
+    "id": 5,
     "name": "API Weather",
     "image": "https://user-images.githubusercontent.com/102841726/185287220-cf09a654-c6e0-446c-85b0-aac47e8e146b.jpg",
     "github": "https://github.com/Muzan67/APIWeather",
@@ -36,7 +45,7 @@
     "skills": "Javascript | CSS | HTML5 | Bootsrap | Moment.js | JQuery"
   },
   {
-    "id": 5,
+    "id": 6,
     "name": "Password Generator",
     "image": "https://user-images.githubusercontent.com/102841726/187491872-0418d070-491a-4e2d-b6ef-9ce5a6823fa0.png",
     "github": "https://github.com/Muzan67/Javasciptmypassword",
