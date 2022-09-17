@@ -2,8 +2,8 @@ import React from "react";
 
 function Footer() {
   return (
-    <div className="page-footer" id="footer" style={{textAlign:"center"}}>
-        <a href="mailto: ac.tendo67@gmail.com">
+    <div className="page-footer" id="footer" style={{ textAlign: "center" }}>
+      <a href="mailto: ac.tendo67@gmail.com">
         <img
           src="https://img.icons8.com/stickers/140/000000/gmail-new.png"
           alt="gmail-logo"
@@ -27,7 +27,7 @@ function Footer() {
           className="page-footer"
         />
       </a>
-      <a href="https://docs.google.com/document/d/e/2PACX-1vTnvev0z6XZ_XMq-20eJFMywtdEi-carCY_vYhLQiEEXho8k5j3nQIsHsHDsetcNN8Qxl9rgDHAY5Nb/pub">
+      <a href="https://drive.google.com/file/d/1OqEs9GaiVY4ej_rf4yE5QeJLsdavpFSc/view?usp=sharing">
         <img
           src="https://img.icons8.com/stickers/140/000000/resume-website.png"
           alt="resume-logo"
