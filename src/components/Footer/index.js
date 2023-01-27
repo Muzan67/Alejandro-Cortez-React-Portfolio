@@ -27,7 +27,7 @@ function Footer() {
           className="page-footer"
         />
       </a>
-      <a href="https://drive.google.com/file/d/1OqEs9GaiVY4ej_rf4yE5QeJLsdavpFSc/view?usp=sharing">
+      <a href="https://drive.google.com/file/d/1-Lc5wYwbwn_JdHDAJar0m41VU1ngEo7V/view?usp=sharing">
         <img
           src="https://img.icons8.com/stickers/140/000000/resume-website.png"
           alt="resume-logo"
